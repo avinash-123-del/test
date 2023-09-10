@@ -1,5 +1,0 @@
-{{#user}}
-Name: Avinash Chandraker
-Skills: HTML, CSS, JS, Next.js , React.js
-Email: avichandraker@hmail.com
-{{/user}}
